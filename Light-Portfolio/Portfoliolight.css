@@ -1,0 +1,116 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color:#e5e5e5;
+}
+div.main1{
+    overflow-x: hidden;
+}
+hr{
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(229,229,229,0), rgba(229,229,229, 0.75), rgba(229,229,229, 0));
+}
+p.para1{
+    color: #202020;
+    opacity: 0.4;
+    word-spacing: 10px;
+    font-family: monospace;
+}
+div.custom{
+    margin-top: 10%;
+    padding: 100px;
+    margin-bottom: 8%;
+}
+div.move{
+    margin-top: 4%;
+}
+img.image{
+    width:40%;
+}
+p.para{
+    color: #202020;
+    font-family: Asul;
+}
+figcaption.fig{
+    color: #202020;
+}
+div.about1{
+    margin-top: 10%;
+}
+p.about{
+    font-size: 150px;
+}
+div.aboutme{
+    border: 4px solid transparent;
+    padding: 50px;
+    border-image: linear-gradient(to right, rgba(229,229,229,0.60), rgba(0,0,0,0),rgba(229,229,229,0.60)) 1 round;
+    margin-top: -7%;
+}
+p.note{
+    color: #202020;
+    font-family: Asul;
+    font-size: 18px;
+}
+hr.edu{
+    margin-top: 7%;
+}
+hr.edu1{
+    margin-top: 7%;
+}
+hr.edu2{
+    margin-top: -4%;
+}
+hr.edu3{
+    margin-top: 2%;
+}
+div.dot{
+    margin-top: -20%;
+    right: 10%;
+}
+div.dot1{
+    margin-top: -25%;
+    right: 10%;
+}
+div.dot2{
+    margin-top: -30%;
+    right: 10%;
+}
+img.dotted{
+    opacity: 0.4;
+}
+p.heading{
+    
+    font-family: Asul;
+    color: #202020;
+}
+u{
+    text-decoration: none;
+    border-bottom: 2px solid #202020;
+}
+div.socialize{
+    margin-top: -5%;
+}
+.s-m{
+    margin: 310px auto;
+    justify-content: space-around;
+    display: flex;
+    max-width: 700px;
+}
+.s-m a{
+    text-decoration: none;
+    font-size: 28px;
+    color: #f1f1f1;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    transition: 0.4s all;
+    line-height: 58px;
+    cursor: pointer;
+    background: #314652;
+    border-radius: 50%;
+}
+.s-m a:hover{
+    transform: scale(1.2);
+}
