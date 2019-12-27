@@ -14,4 +14,4 @@ The portfolio can be viewed in light as well as dark mode :)
 
 </ul>
 <br>
-Thank You for viewing :)
+Thank You for viewing this :)
